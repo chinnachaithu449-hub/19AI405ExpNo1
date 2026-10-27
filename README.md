@@ -1,7 +1,7 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
-
+<h3>Name: G chaithanya</h3>
+<h3>Register Number: 212225230087</h3>
+</h3>date : 15/10/2026</h3>
 
 <h3>AIM:</h3>
 <br>
@@ -40,3 +40,11 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
+ 
+
+
+
+
+
+
+
