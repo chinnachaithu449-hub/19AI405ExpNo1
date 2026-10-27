@@ -92,6 +92,7 @@ OUTPUT:
 <img width="737" height="412" alt="Screenshot 2026-10-27 085017" src="https://github.com/user-attachments/assets/aca4a1a3-24f9-481f-ba2a-0d61d2467832" />
 
 
+
 Result: Thus found the PEAS description for the given AI problem and develop an AI agent.
 
 
